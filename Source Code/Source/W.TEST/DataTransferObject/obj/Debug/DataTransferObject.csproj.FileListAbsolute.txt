@@ -1,0 +1,16 @@
+C:\Users\Ross\Desktop\W.TEST\DataTransferObject\bin\Debug\DataTransferObject.dll
+C:\Users\Ross\Desktop\W.TEST\DataTransferObject\bin\Debug\DataTransferObject.pdb
+C:\Users\Ross\Desktop\W.TEST\DataTransferObject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ross\Desktop\W.TEST\DataTransferObject\obj\Debug\DataTransferObject.dll
+C:\Users\Ross\Desktop\W.TEST\DataTransferObject\obj\Debug\DataTransferObject.pdb
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\DataTransferObject\bin\Debug\DataTransferObject.dll
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\DataTransferObject\bin\Debug\DataTransferObject.pdb
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\DataTransferObject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\DataTransferObject\obj\Debug\DataTransferObject.dll
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\DataTransferObject\obj\Debug\DataTransferObject.pdb
+D:\long\.NET\[Sharecode.vn] Code he thong thi trac nghiem FIT TEST full code c# + bao cao\Source\W.TEST\DataTransferObject\bin\Debug\DataTransferObject.dll
+D:\long\.NET\[Sharecode.vn] Code he thong thi trac nghiem FIT TEST full code c# + bao cao\Source\W.TEST\DataTransferObject\bin\Debug\DataTransferObject.pdb
+D:\long\.NET\[Sharecode.vn] Code he thong thi trac nghiem FIT TEST full code c# + bao cao\Source\W.TEST\DataTransferObject\obj\Debug\DataTransferObject.csproj.AssemblyReference.cache
+D:\long\.NET\[Sharecode.vn] Code he thong thi trac nghiem FIT TEST full code c# + bao cao\Source\W.TEST\DataTransferObject\obj\Debug\DataTransferObject.csproj.CoreCompileInputs.cache
+D:\long\.NET\[Sharecode.vn] Code he thong thi trac nghiem FIT TEST full code c# + bao cao\Source\W.TEST\DataTransferObject\obj\Debug\DataTransferObject.dll
+D:\long\.NET\[Sharecode.vn] Code he thong thi trac nghiem FIT TEST full code c# + bao cao\Source\W.TEST\DataTransferObject\obj\Debug\DataTransferObject.pdb

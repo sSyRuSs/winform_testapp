@@ -1,0 +1,51 @@
+C:\Users\Ross\Desktop\W.TEST\BusinessLogicTier\bin\Debug\BusinessLogicTier.dll
+C:\Users\Ross\Desktop\W.TEST\BusinessLogicTier\bin\Debug\BusinessLogicTier.pdb
+C:\Users\Ross\Desktop\W.TEST\BusinessLogicTier\bin\Debug\DataAccessTier.dll
+C:\Users\Ross\Desktop\W.TEST\BusinessLogicTier\bin\Debug\DataTransferObject.dll
+C:\Users\Ross\Desktop\W.TEST\BusinessLogicTier\bin\Debug\DataAccessTier.pdb
+C:\Users\Ross\Desktop\W.TEST\BusinessLogicTier\bin\Debug\DataTransferObject.pdb
+C:\Users\Ross\Desktop\W.TEST\BusinessLogicTier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ross\Desktop\W.TEST\BusinessLogicTier\obj\Debug\BusinessLogicTier.dll
+C:\Users\Ross\Desktop\W.TEST\BusinessLogicTier\obj\Debug\BusinessLogicTier.pdb
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\BusinessLogicTier\bin\Debug\BusinessLogicTier.dll
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\BusinessLogicTier\bin\Debug\BusinessLogicTier.pdb
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\BusinessLogicTier\bin\Debug\DataAccessTier.dll
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\BusinessLogicTier\bin\Debug\DataTransferObject.dll
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\BusinessLogicTier\bin\Debug\DataAccessTier.pdb
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\BusinessLogicTier\bin\Debug\DataTransferObject.pdb
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\BusinessLogicTier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\BusinessLogicTier\obj\Debug\BusinessLogicTier.dll
+C:\Users\Ross\Desktop\NCTH4A_DeTaiTuChon_NguyenThaiHien_BuiXuanthanh\Source\W.TEST\BusinessLogicTier\obj\Debug\BusinessLogicTier.pdb
+D:\long\.NET\[Sharecode.vn] Code he thong thi trac nghiem FIT TEST full code c# + bao cao\Source\W.TEST\BusinessLogicTier\bin\Debug\BusinessLogicTier.dll
+D:\long\.NET\[Sharecode.vn] Code he thong thi trac nghiem FIT TEST full code c# + bao cao\Source\W.TEST\BusinessLogicTier\bin\Debug\BusinessLogicTier.pdb
+D:\long\.NET\[Sharecode.vn] Code he thong thi trac nghiem FIT TEST full code c# + bao cao\Source\W.TEST\BusinessLogicTier\bin\Debug\DataAccessTier.dll
+D:\long\.NET\[Sharecode.vn] Code he thong thi trac nghiem FIT TEST full code c# + bao cao\Source\W.TEST\BusinessLogicTier\bin\Debug\DataTransferObject.dll
+D:\long\.NET\[Sharecode.vn] Code he thong thi trac nghiem FIT TEST full code c# + bao cao\Source\W.TEST\BusinessLogicTier\bin\Debug\DataAccessTier.pdb
+D:\long\.NET\[Sharecode.vn] Code he thong thi trac nghiem FIT TEST full code c# + bao cao\Source\W.TEST\BusinessLogicTier\bin\Debug\DataTransferObject.pdb
+D:\long\.NET\[Sharecode.vn] Code he thong thi trac nghiem FIT TEST full code c# + bao cao\Source\W.TEST\BusinessLogicTier\obj\Debug\BusinessLogicTier.csproj.AssemblyReference.cache
+D:\long\.NET\[Sharecode.vn] Code he thong thi trac nghiem FIT TEST full code c# + bao cao\Source\W.TEST\BusinessLogicTier\obj\Debug\BusinessLogicTier.csproj.CoreCompileInputs.cache
+D:\long\.NET\[Sharecode.vn] Code he thong thi trac nghiem FIT TEST full code c# + bao cao\Source\W.TEST\BusinessLogicTier\obj\Debug\BusinessLogicTier.csproj.CopyComplete
+D:\long\.NET\[Sharecode.vn] Code he thong thi trac nghiem FIT TEST full code c# + bao cao\Source\W.TEST\BusinessLogicTier\obj\Debug\BusinessLogicTier.dll
+D:\long\.NET\[Sharecode.vn] Code he thong thi trac nghiem FIT TEST full code c# + bao cao\Source\W.TEST\BusinessLogicTier\obj\Debug\BusinessLogicTier.pdb
+C:\Long\.Net\He Thong THi TN\Source\ThI TN\BusinessLogicTier\bin\Debug\BusinessLogicTier.dll
+C:\Long\.Net\He Thong THi TN\Source\ThI TN\BusinessLogicTier\bin\Debug\BusinessLogicTier.pdb
+C:\Long\.Net\He Thong THi TN\Source\ThI TN\BusinessLogicTier\bin\Debug\DataAccessTier.dll
+C:\Long\.Net\He Thong THi TN\Source\ThI TN\BusinessLogicTier\bin\Debug\DataTransferObject.dll
+C:\Long\.Net\He Thong THi TN\Source\ThI TN\BusinessLogicTier\bin\Debug\DataAccessTier.pdb
+C:\Long\.Net\He Thong THi TN\Source\ThI TN\BusinessLogicTier\bin\Debug\DataTransferObject.pdb
+C:\Long\.Net\He Thong THi TN\Source\ThI TN\BusinessLogicTier\obj\Debug\BusinessLogicTier.csproj.AssemblyReference.cache
+C:\Long\.Net\He Thong THi TN\Source\ThI TN\BusinessLogicTier\obj\Debug\BusinessLogicTier.csproj.CoreCompileInputs.cache
+C:\Long\.Net\He Thong THi TN\Source\ThI TN\BusinessLogicTier\obj\Debug\BusinessLogicTier.csproj.CopyComplete
+C:\Long\.Net\He Thong THi TN\Source\ThI TN\BusinessLogicTier\obj\Debug\BusinessLogicTier.dll
+C:\Long\.Net\He Thong THi TN\Source\ThI TN\BusinessLogicTier\obj\Debug\BusinessLogicTier.pdb
+C:\Long\.Net\He Thong THi TN\Source\W.TEST\BusinessLogicTier\bin\Debug\BusinessLogicTier.dll
+C:\Long\.Net\He Thong THi TN\Source\W.TEST\BusinessLogicTier\bin\Debug\BusinessLogicTier.pdb
+C:\Long\.Net\He Thong THi TN\Source\W.TEST\BusinessLogicTier\bin\Debug\DataAccessTier.dll
+C:\Long\.Net\He Thong THi TN\Source\W.TEST\BusinessLogicTier\bin\Debug\DataTransferObject.dll
+C:\Long\.Net\He Thong THi TN\Source\W.TEST\BusinessLogicTier\bin\Debug\DataAccessTier.pdb
+C:\Long\.Net\He Thong THi TN\Source\W.TEST\BusinessLogicTier\bin\Debug\DataTransferObject.pdb
+C:\Long\.Net\He Thong THi TN\Source\W.TEST\BusinessLogicTier\obj\Debug\BusinessLogicTier.csproj.AssemblyReference.cache
+C:\Long\.Net\He Thong THi TN\Source\W.TEST\BusinessLogicTier\obj\Debug\BusinessLogicTier.csproj.CoreCompileInputs.cache
+C:\Long\.Net\He Thong THi TN\Source\W.TEST\BusinessLogicTier\obj\Debug\BusinessLogicTier.csproj.CopyComplete
+C:\Long\.Net\He Thong THi TN\Source\W.TEST\BusinessLogicTier\obj\Debug\BusinessLogicTier.dll
+C:\Long\.Net\He Thong THi TN\Source\W.TEST\BusinessLogicTier\obj\Debug\BusinessLogicTier.pdb
